@@ -9,7 +9,7 @@ import (
 
     "github.com/beego/beego/v2/core/logs"
 
-	_ "booking-data-integrationn-system/routers"
+	_ "booking-data-integration-system/routers"
 
 	beego "github.com/beego/beego/v2/server/web"
 	. "github.com/smartystreets/goconvey/convey"

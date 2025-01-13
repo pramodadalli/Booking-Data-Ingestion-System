@@ -1,11 +1,10 @@
 package main
 
 import (
-	_ "booking-data-integrationn-system/routers"
-	beego "github.com/beego/beego/v2/server/web"
+    // "booking-data-integration-system/models"
+    "github.com/astaxie/beego"
 )
 
 func main() {
-	beego.Run()
+    beego.Run()
 }
-
